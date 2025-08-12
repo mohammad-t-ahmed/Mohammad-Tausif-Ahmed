@@ -7,13 +7,13 @@ Hi! I'm Mohamamd Tausif Ahmed, an aspiring accountant currently preparing for a 
 ## 📘 About Me
 
 - 🎓 School leaver passionate about accounting, audit, and finance
-- 📍 Based in [Your City or Region]
+- 📍 Based in Luton
 - 🧑‍💼 Interested in roles in audit, tax, and advisory
 - 🤝 Open to work experience and apprenticeship opportunities
 
 ---
 
-## 💼 Work Experience
+<!-- ## 💼 Work Experience
 
 | Organisation | Program | Platform | Completed |
 |--------------|---------|----------|-----------|
@@ -22,21 +22,22 @@ Hi! I'm Mohamamd Tausif Ahmed, an aspiring accountant currently preparing for a 
 | EY | Audit Virtual Experience | Forage | ✅ |
 
 ---
-
+-->
 ## 📚 Courses & Certifications
 
 | Course | Provider | Status |
 |--------|----------|--------|
-| Introduction to Bookkeeping | ACCA-X | ✅ |
-| Intermediate Bookkeeping | ACCA-X | ✅ |
-| Intro to Management Accounting | ACCA-X | 🔄 In Progress |
-| Microsoft Excel (Beginner–Advanced) | Various (YouTube, Coursera) | ✅ |
-| Xero Accounting Software | Xero Learn | 🔄 Planned |
-
+| Introduction to Bookkeeping | ACCA-X | 🔄 In Progress |
+<!--
+| Intermediate Bookkeeping | ACCA-X | ... |
+| Intro to Management Accounting | ACCA-X | ... |
+| Microsoft Excel (Beginner–Advanced) | Various (YouTube, Coursera) | ... |
+| Xero Accounting Software | Xero Learn | ... |
+-->
 ---
 
 ## 📂 Projects
-
+<!--  add once done link as sperate
 ### 🧮 [Bookkeeping Simulation Project (Xero)](https://github.com/yourusername/bookkeeping-simulation-xero)
 > Created a mock sole trader business and recorded 3 months of transactions using Xero.
 
@@ -55,7 +56,7 @@ Hi! I'm Mohamamd Tausif Ahmed, an aspiring accountant currently preparing for a 
 - Created monthly dashboards with bar and line charts
 
 ---
-
+-->
 ## 📄 CV & Contact
 
 - 📄 [Download My CV (PDF)](https://yourlink.com/cv.pdf) *(optional)*
@@ -64,13 +65,6 @@ Hi! I'm Mohamamd Tausif Ahmed, an aspiring accountant currently preparing for a 
 
 ---
 
-## 🧭 Goals (2025–2026)
 
-- 🔲 Secure a school leaver apprenticeship (RSM, BDO, EY, etc.)
-- 🔲 Gain hands-on experience with real client accounts
-- 🔲 Complete AAT Level 3 or equivalent qualification
-- 🔲 Begin CIMA or ACCA professional route in future
-
----
 
 > 📌 *This portfolio is continuously updated as I complete new training, gain experience, and build projects.*
